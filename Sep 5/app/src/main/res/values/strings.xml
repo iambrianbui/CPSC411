@@ -2,5 +2,6 @@
     <string name="app_name">TestApplication</string>
     <string name="test_text">Do not press the button.</string>
     <id> name="_test_obj_id"</id>
+    <item name = "test_view_id" type="id"/>
 
 </resources>

@@ -15,7 +15,7 @@ public class ScrollableLinear extends Activity {
 
         super.onCreate(savedInstanceState);
 
-/*
+
         HorizontalScrollView sv = new HorizontalScrollView(this);
 
         LinearLayout lv = new LinearLayout(this);
@@ -30,11 +30,11 @@ public class ScrollableLinear extends Activity {
             lv.addView(tv);
         }
 
-      //  sv.addView(lv);                       idk why this acting up
+        //  sv.addView(lv);                       idk why this acting up
 
         setContentView(lv);
 
-        */
-        setContentView(R.layout.simple_linear_rf);
+
+        //  setContentView(R.layout.simple_linear_rf);
     }
 }
